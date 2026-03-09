@@ -1,0 +1,22 @@
+[
+{
+"title": "Reset Password",
+"content": "Users can reset their password by clicking 'Forgot Password' on the login page and following the instructions sent to their email."
+},
+{
+"title": "Contact Support",
+"content": "Users can contact customer support through the help center or by sending an email to support@example.com."
+},
+{
+"title": "Update Profile",
+"content": "Users can update their profile information from the profile settings page after logging into their account."
+},
+{
+"title": "Account Creation",
+"content": "New users can create an account by clicking the Sign Up button and completing the registration form."
+},
+{
+"title": "Delete Account",
+"content": "Users can delete their account permanently from the account settings page."
+}
+]
