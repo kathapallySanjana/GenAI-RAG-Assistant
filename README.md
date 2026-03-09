@@ -34,7 +34,7 @@ python app.py
 
 Open the application in your browser:
 
-[Open Chat Assistant](http://127.0.0.1:5000)
+[Open Chat Assistant] (http://127.0.0.1:5000)
 
 ## Technologies Used
 
